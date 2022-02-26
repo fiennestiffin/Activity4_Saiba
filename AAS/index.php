@@ -19,7 +19,7 @@
 
     <div class="mid-div">
         <h1>
-            Automated<br>Appointment<br>System
+            Automated<br>Scheduling
         </h1>
     </div>
     <h2>thank you</h2>
