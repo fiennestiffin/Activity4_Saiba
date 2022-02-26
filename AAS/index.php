@@ -25,15 +25,7 @@
 
     <button type="button" class="btn btn-primary login-btn" data-bs-toggle="modal" data-bs-target="#login-modal">LOG IN</button>
 
-    <div class="login-div">
-        <div class="modal fade" id="login-modal" tabindex="-1" aria-labelledby="login-modalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <div class="red-div flex-row">
-                            <div class="wmsu-logo"></div>
-                            <h1>WMSU</h1>
-                        </div>
+    
 
                         <div class="white-div">
                             <form class="d-flex flex-column align-items-center justify-content-center" action="./include/login-auth.php" method="post">
@@ -128,7 +120,7 @@
         </div>
     </div>
 
-    
+ <div>   
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
