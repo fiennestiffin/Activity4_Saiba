@@ -42,7 +42,7 @@
                                     <div class="remember-me-div d-flex justify-content-start">
                                         <input class="form-check-input" type="checkbox" value="" id="remember-check">
                                         <label class="form-check-remember" for="remember-check">
-                                            <p>Remember me</p>
+                                            <p>Remember when huhuhuhuhuhuhu TT</p>
                                         </label>
                                     </div>
 
