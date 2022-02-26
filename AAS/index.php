@@ -22,7 +22,7 @@
             Automated<br>Appointment<br>System
         </h1>
     </div>
-
+    <h2>thank you</h2>
     <button type="button" class="btn btn-primary login-btn" data-bs-toggle="modal" data-bs-target="#login-modal">LOG IN</button>
 
     
